@@ -1,0 +1,4 @@
+com\tech\blog\BlogApplication.class
+com\tech\blog\Item.class
+com\tech\blog\ItemController.class
+com\tech\blog\ItemRepository.class
