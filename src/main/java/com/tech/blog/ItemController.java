@@ -46,6 +46,7 @@ public class ItemController {
 			i.setTitle(title);
 			i.setName(name);
 			i.setEmail(email);
+			i.setImage(image);
 			i.setBlog(blog);
 			i.setAbout(about);
 			i.setReference(reference);
